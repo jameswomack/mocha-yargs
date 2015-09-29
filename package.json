@@ -1,0 +1,25 @@
+{
+  "name": "mocha-yargs",
+  "version": "1.0.0",
+  "description": "Mocha & Yargs Doubling Up",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test/specs/index.js"
+  },
+  "keywords": [
+    "double",
+    "arguments",
+    "argv",
+    "yargs",
+    "process",
+    "flags",
+    "twice"
+  ],
+  "author": "James J. Womack (@james_womack)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.3.3",
+    "yargs": "3.26.0"
+  }
+}
